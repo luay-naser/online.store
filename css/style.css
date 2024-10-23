@@ -400,6 +400,7 @@ justify-content: center;
 align-items: flex-start;
 padding: 20px;
 margin-bottom: 10px;
+transition: 0.3s;
 }
 #fe-banner .banner-box:hover{
   background: url(../images/img5.jpg) center/cover no-repeat;
@@ -410,6 +411,7 @@ margin-bottom: 10px;
 
 #fe-banner .banner-box:nth-child(3){
   background: url(../images/img2.jpg) center/cover no-repeat;
+  transition: 0.3s;
 }
 #fe-banner .banner-box:nth-child(3):hover{
   background: url(../images/img5.jpg) center/cover no-repeat;
@@ -558,5 +560,3 @@ footer .copyright p{
   padding-bottom: 0px;
   margin-bottom: 0%;
 }
-
-
